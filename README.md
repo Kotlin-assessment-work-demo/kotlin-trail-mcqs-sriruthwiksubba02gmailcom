@@ -8,14 +8,14 @@ Please answer the following questions by selecting the correct option (A, B, C, 
    - B) 2
    - C) 1
    - D) 10
-   - **Your Answer:**
+   - A
 
 2. **Which keyword is used to declare a constant in Kotlin?**
    - A) val
    - B) var
    - C) const
    - D) let
-   - **Your Answer:**
+   - A
 
 3. **What does the `when` expression do in Kotlin?**
    - A) Acts like if-else
