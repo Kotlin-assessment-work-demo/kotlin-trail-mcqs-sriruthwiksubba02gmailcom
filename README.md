@@ -22,4 +22,4 @@ Please answer the following questions by selecting the correct option (A, B, C, 
    - B) Acts like switch-case
    - C) Creates a loop
    - D) Defines a function
-   - **Your Answer:**
+   - A
